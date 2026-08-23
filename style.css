@@ -222,8 +222,8 @@ input {
 
     margin-top: 35px;
 
-    font-family: var(--serif);
-    font-size: clamp(42px, 6vw, 100px);
+    font-family: var(--display);
+    font-size: clamp(65px, 6vw, 180px);
     font-style: italic;
 
     line-height: 1;
@@ -292,12 +292,12 @@ input {
 
     transform: translate(-50%, -50%);
 
-    width: min(330px, 35vw);
+    width: min(504px, 35vw);
     height: 620px;
 
     overflow: hidden;
 
-    background: #d0d0d0;
+    /* background: #d0d0d0; */
 
     filter: grayscale(100%);
 }
@@ -758,7 +758,7 @@ input {
 .lookbook-grid {
     display: grid;
 
-    grid-template-columns: 1.1fr .7fr 1.3fr;
+    grid-template-columns: 1.1fr .7fr 0fr;
 
     grid-template-rows: 350px 500px 300px;
 
@@ -796,11 +796,12 @@ input {
 }
 
 .look:nth-child(2) {
-    transform: translateY(100px);
+    transform: translateY(100px); 
 }
 
 .look:nth-child(3) {
     grid-row: span 2;
+    width: 406px;
 }
 
 .look:nth-child(4) {
