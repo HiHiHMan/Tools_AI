@@ -133,7 +133,7 @@ const tools = [
 
 {
     category: "03",
-    name: "NotebookLM",
+    name: "Notebook",
     type: "Research",
     url: "https://notebooklm.google.com/"
 },
