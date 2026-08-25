@@ -42,6 +42,14 @@ const tools = [
     url: "https://hailuoai.video/"
 },
 
+
+{
+    category: "01",
+    name: "higgsfield",
+    type: "Video Generation",
+    url: "https://higgsfield.ai/"
+},
+
 /* 02 */
 
 {
