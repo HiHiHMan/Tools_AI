@@ -208,6 +208,15 @@ const tools = [
     url: "https://figma.com/"
 },
 
+{
+    category: "05",
+    name: "Gojelly",
+    type: "Image Generation",
+    url: "https://gojelly.ai/"
+},
+
+
+
 /* 06 */
 
 {
