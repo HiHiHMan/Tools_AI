@@ -215,6 +215,12 @@ const tools = [
     url: "https://gojelly.ai/"
 },
 
+{
+    category: "05",
+    name: "lumina",
+    type: "Image Generation",
+    url: "https://ai.byteplus.com/lumina"
+},
 
 
 /* 06 */
