@@ -222,6 +222,12 @@ const tools = [
     url: "https://ai.byteplus.com/lumina"
 },
 
+{
+    category: "05",
+    name: "Artlist",
+    type: "Image Generation",
+    url: "https://toolkit.artlist.io/"
+},
 
 /* 06 */
 
